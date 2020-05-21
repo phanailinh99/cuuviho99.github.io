@@ -52,6 +52,46 @@ $(function()
 		name: "Em ơi lên phố",
 		url: "Musics/EmOiLenPho.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	},{
+		artist: "B Ray",
+		name: "Cao Ốc 20",
+		url: "Musics/CaoOc20.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	},{
+		artist: "Thương Võ",
+		name: "Còn gì đau hơn chữ đã từng (Cover)",
+		url: "Musics/ConGiDauHonChuDaTung.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	},{
+		artist: "Đinh Tùng Huy",
+		name: "Cứ Ngỡ Là Anh",
+		url: "Musics/CuNgoLaAnh.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	},{
+		artist: "Thanh Hưng",
+		name: "Đúng Người Đúng Thời Điểm",
+		url: "Musics/DungNguoiDungThoiDiem.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	},{
+		artist: "Hương Tràm",
+		name: "Duyên Mình Lỡ",
+		url: "Musics/DuyenMinhLo.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	},{
+		artist: "Đức Phúc",
+		name: "Hết Thương Cạn Nhớ",
+		url: "Musics/HetThuongCanNho.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	},{
+		artist: "Mr Siro",
+		name: "Một Bước Yêu Vạn Dặm Đau",
+		url: "Musics/MotBuocYeuVanDamDau.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	},{
+		artist: "Hiền Hồ",
+		name: "Rồi Người Thương Cũng Hóa Người Dưng",
+		url: "Musics/RoiNguoiThuongCungHoaNguoiDung.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
 	}];
 	function shuffle(a) {
 		var j, x, i;
