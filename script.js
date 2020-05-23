@@ -23,6 +23,11 @@ $(function()
 	var playPreviousTrackButton = $('#play-previous'), playNextTrackButton = $('#play-next'), currIndex = -1;
 	
 	var songs = [{
+		artist: "Emily",
+		name: "Xin Anh Đừng",
+		url: "Musics/XinAnhDung.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	},{
 		artist: "Đạt G",
 		name: "Khó vẽ nụ cười",
 		url: "Musics/KhoVeNuCuoi.mp3",
@@ -71,6 +76,11 @@ $(function()
 		artist: "Thanh Hưng",
 		name: "Đúng Người Đúng Thời Điểm",
 		url: "Musics/DungNguoiDungThoiDiem.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	},{
+		artist: "Hương Tràm",
+		name: "Em gái mưa",
+		url: "Musics/EmGaiMua.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
 	},{
 		artist: "Hương Tràm",

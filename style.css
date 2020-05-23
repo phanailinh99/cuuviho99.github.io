@@ -393,7 +393,18 @@ body
     z-index: 10;
     position: relative;
 }
-
+#message1 {
+    
+    font-size: 1rem;
+    
+    font-weight: 300;
+    display: inline;
+    width: 100%;
+    justify-content: center;
+    margin-top: 0.1rem;
+    z-index: 10;
+    position: relative;
+}
 #list-song {
     position: absolute;
     top: 110px;
@@ -462,3 +473,10 @@ body
     border-radius: 15px;
     background-color: #6a6d70;
 }
+
+footer{
+            background-color:#ccc;
+            text-align:center;
+            padding:25px;
+            font-size:18px;
+        }
