@@ -28,6 +28,11 @@ $(function()
 		url: "Musics/XinAnhDung.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
 	},{
+		artist: "Chipu",
+		name: "Anh Ơi Ở Lại",
+		url: "Musics/AnhOiOLai.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	},{
 		artist: "Đạt G",
 		name: "Khó vẽ nụ cười",
 		url: "Musics/KhoVeNuCuoi.mp3",
@@ -38,14 +43,29 @@ $(function()
 		url: "Musics/NeuAnhDi.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
 	},{
+		artist: "Hà My",
+		name: "Anh Ta Bỏ Em Rồi - Cover",
+		url: "Musics/AnhTaBoEmRoi.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	},{
 		artist: "Trịnh Đình Quang",
 		name: "Thất tình",
 		url: "Musics/ThatTinh.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
 	},{
+		artist: "Thanh Goll",
+		name: "Cafe Đắng Và Mưa (Acoustic Cover)",
+		url: "Musics/CFDangVaMua.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	},{
 		artist: "Minh Vương",
 		name: "Đừng làm anh đau",
 		url: "Musics/DungLamAnhDau.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	},{
+		artist: "Thanh Goll",
+		name: "Cánh Chim Hải Âu (Acoustic Cover)",
+		url: "Musics/CanhChimHaiAu.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
 	},{
 		artist: "Minh Vương",
@@ -58,9 +78,24 @@ $(function()
 		url: "Musics/EmOiLenPho.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
 	},{
+		artist: "Thanh Goll",
+		name: "Đêm Trăng Tình Yêu (Acoustic Cover)",
+		url: "Musics/DemTrangTinhYeu.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	},{
+		artist: "Hoàng Yến Chibi",
+		name: "Ngồi Bên Em",
+		url: "Musics/NgoiBenEm.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	},{
 		artist: "B Ray",
 		name: "Cao Ốc 20",
 		url: "Musics/CaoOc20.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	},{
+		artist: "HKT",
+		name: "Mặt Trái Của Sự Thật",
+		url: "Musics/MatTraiCuaSuThat.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
 	},{
 		artist: "Thương Võ",
@@ -73,6 +108,11 @@ $(function()
 		url: "Musics/CuNgoLaAnh.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
 	},{
+		artist: "Quang Vinh, Bảo Thy ",
+		name: "Ngôi Nhà Hoa Hồng",
+		url: "Musics/NgoiNhaHoaHong.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	},{
 		artist: "Thanh Hưng",
 		name: "Đúng Người Đúng Thời Điểm",
 		url: "Musics/DungNguoiDungThoiDiem.mp3",
@@ -81,6 +121,11 @@ $(function()
 		artist: "Hương Tràm",
 		name: "Em gái mưa",
 		url: "Musics/EmGaiMua.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	},{
+		artist: "Lê Thúy Chi",
+		name: "Tình Yêu Mang Theo (Cover)",
+		url: "Musics/TinhYeuMangTheo.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
 	},{
 		artist: "Hương Tràm",
@@ -101,6 +146,16 @@ $(function()
 		artist: "Hiền Hồ",
 		name: "Rồi Người Thương Cũng Hóa Người Dưng",
 		url: "Musics/RoiNguoiThuongCungHoaNguoiDung.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	},{
+		artist: "Khánh Ngọc, Nhật Tinh Anh ",
+		name: "Vầng Trăng Khóc",
+		url: "Musics/VangTrangKhoc.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	},{
+		artist: "Phạm Hồng Phước ",
+		name: "Khi Người Lớn Cô Đơn",
+		url: "Musics/KhiNguoiLonCoDon.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
 	}];
 	function shuffle(a) {
