@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: cuuviho99.github.io
+Token: f43de2a14a5f168f0be6fe2db4cf25169fc062e730690f2d6571f376df9bcabb
