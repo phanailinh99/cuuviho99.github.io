@@ -23,6 +23,11 @@ $(function()
 	var playPreviousTrackButton = $('#play-previous'), playNextTrackButton = $('#play-next'), currIndex = -1;
 	
 	var songs = [{
+		artist: "Sơn Tùng MTP",
+		name: "Lạc Trôi (Triple D remix)",
+		url: "Musics/LacTroi.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	},{
 		artist: "Emily",
 		name: "Xin Anh Đừng",
 		url: "Musics/XinAnhDung.mp3",
