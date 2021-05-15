@@ -480,3 +480,36 @@ footer{
             padding:25px;
             font-size:18px;
         }
+.loading{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border-top: 10px solid white;
+  position: relative;
+  animation: quay1 2s linear infinite;
+}
+
+
+
+.loading span {
+   position: absolute;;
+   color: red;
+   font-family: 'Tahoma';
+   height: 200px;
+   width: 200px;
+   line-height: 20px;
+   text-align: center;
+   animation: quay2 2s linear infinite;
+}
+
+ @keyframes quay1 {
+   to{
+     transform: rotate(360deg);
+   }
+ }
+
+ @keyframes quay2 {
+   to{
+     transform: rotate(-360deg);
+   }
+ }
