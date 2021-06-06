@@ -35,7 +35,7 @@ $(function()
 	},{
 		artist: "Phát Hồ x JokeS Bii ft DinhLong",
 		name: "Cố Giang Tình (Orinn Remix)",
-		url: "Musics/cogiangtinh.mp3",
+		url: "Musics/CoGiangTinh.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
 	},{
 		artist: "Phát Hồ x JokeS Bii",
