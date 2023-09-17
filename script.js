@@ -23,6 +23,11 @@ $(function()
 	var playPreviousTrackButton = $('#play-previous'), playNextTrackButton = $('#play-next'), currIndex = -1;
 
 	var songs = [{
+		artist: "Lương Minh Trang",
+		name: "Hạnh Phúc Đó Em Không Có - Lofi ",
+		url: "Musics/HanhPhucDoEmKhongCo.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	},{
 		artist: "Doãn Hiếu",
 		name: "Họ Yêu Ai Mất Rồi ",
 		url: "Musics/HoYeuAiMatRoi.mp3",
